@@ -20,4 +20,12 @@ public class TemplatesController {
         System.out.println("Architect templet is from W3 school website.");
         return "templates_architect";
     }
+
+    // This is for blogs template
+    @GetMapping("/templates_blog")
+    public String blogs(){
+        System.out.println("In blogs template");
+        System.out.println("Blog templet is from W3 school website.");
+        return "templates_blog";
+    }
 }
