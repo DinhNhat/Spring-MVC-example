@@ -24,8 +24,7 @@ public class TemplatesController {
     // This is for blogs template
     @GetMapping("/templates_blog")
     public String blogs(){
-        System.out.println("In blogs template");
-        System.out.println("Blog templet is from W3 school website.");
+        System.out.println("This is blog template.");
         return "templates_blog";
     }
 }
