@@ -1,1 +1,9 @@
 target/tomcat/logs/access_log.2020-06-01
+target/classes/com/test/TemplatesController.class
+target/spring-example-1.0-SNAPSHOT/WEB-INF/classes/com/test/TemplatesController.class
+target/spring-example-1.0-SNAPSHOT/WEB-INF/jsp/templates_gourmet_catering.jsp
+target/spring-example-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.2.5.RELEASE.jar
+target/spring-example-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.2.5.RELEASE.jar
+target/spring-example-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.2.5.RELEASE.jar
+target/spring-example-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.2.5.RELEASE.jar
+target/tomcat/logs/access_log.2020-06-02
